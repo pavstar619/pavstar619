@@ -10,3 +10,7 @@
 - 📫 How to reach me: ... [Youtube channel](https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw)
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... I can do handstands
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavstar619)]
+
+![]https://komarev.com/ghpvc/?username=your-github-username
