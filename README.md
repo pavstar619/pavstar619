@@ -7,6 +7,6 @@
 - 👯 I’m looking to collaborate on ... python projects
 - 🤔 I’m looking for help with ... Deep learning
 - 💬 Ask me about ... Full stack web development and Fitness
-- 📫 How to reach me: ... [Youtube]('https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw')
+- 📫 How to reach me: ... [Youtube channel](https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw)
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... I can do handstands
