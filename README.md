@@ -7,11 +7,11 @@
 - 👯 I’m looking to collaborate on ... python projects
 - 🤔 I’m looking for help with ... Deep learning
 - 💬 Ask me about ... Full stack web development and Fitness
-- 📫 How to reach me: ... 
-    [Youtube channel](https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw)
-    [Facebook](https://web.facebook.com/pavstar619)
-    [LinkedIn](https://www.linkedin.com/in/pavel-rahman/)
-    [Instagram](https://www.instagram.com/pavstar619/)
+- 📫 How to reach me: ... <br>
+    [Youtube channel](https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw)<br>
+    [Facebook](https://web.facebook.com/pavstar619)<br>
+    [LinkedIn](https://www.linkedin.com/in/pavel-rahman/)<br>
+    [Instagram](https://www.instagram.com/pavstar619/)<br>
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... I can do handstands
 
