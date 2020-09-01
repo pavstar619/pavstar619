@@ -11,6 +11,13 @@
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... I can do handstands
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavstar619)]
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pavstar619)
 
-![]https://komarev.com/ghpvc/?username=your-github-username
+<div align="center">
+    
+    
+   <image align="center" src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=dracula"> 
+       
+</div>
+
+![](https://komarev.com/ghpvc/?username=your-github-username)
