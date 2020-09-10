@@ -8,7 +8,7 @@
 - 🤔 I’m looking for help with ... <b>Deep learning</b>
 - 💬 Ask me about ... <b>Full stack web development and Fitness</b>
 - 📫 How to reach me: ...
-    <ul style="font-weight:bold;">
+    <ul>
         <li>[Youtube channel](https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw)</li>
         <li>[Facebook](https://web.facebook.com/pavstar619)</li>
         <li>[LinkedIn](https://www.linkedin.com/in/pavel-rahman/)</li>
