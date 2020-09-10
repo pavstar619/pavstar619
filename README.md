@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ... Machine Learning & Web Development
+- 🔭 I’m currently working on ... <b>Machine Learning & Web Development<b>
 - 🌱 I’m currently learning ... Machine Learning
 - 👯 I’m looking to collaborate on ... Python projects
 - 🤔 I’m looking for help with ... Deep learning
