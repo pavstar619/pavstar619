@@ -2,16 +2,18 @@
 
 
 
-- 🔭 I’m currently working on ... <b>Machine Learning & Web Development<b>
-- 🌱 I’m currently learning ... Machine Learning
-- 👯 I’m looking to collaborate on ... Python projects
-- 🤔 I’m looking for help with ... Deep learning
-- 💬 Ask me about ... Full stack web development and Fitness
+- 🔭 I’m currently working on ... <b>Machine Learning & Web Development</b>
+- 🌱 I’m currently learning ... <b>Machine Learning</b>
+- 👯 I’m looking to collaborate on ... <b>Python projects</b>
+- 🤔 I’m looking for help with ... <b>Deep learning</b>
+- 💬 Ask me about ... <b>Full stack web development and Fitness</b>
 - 📫 How to reach me: ... <br>
-    [Youtube channel](https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw)<br>
-    [Facebook](https://web.facebook.com/pavstar619)<br>
-    [LinkedIn](https://www.linkedin.com/in/pavel-rahman/)<br>
-    [Instagram](https://www.instagram.com/pavstar619/)<br>
+<ul style="font-weight:bold;">
+    <li>[Youtube channel](https://www.youtube.com/channel/UCbyoTZ9guFWEC5BaKRkV9Aw)</li>
+    <li>[Facebook](https://web.facebook.com/pavstar619)</li>
+    <li>[LinkedIn](https://www.linkedin.com/in/pavel-rahman/)</li>
+    <li>[Instagram](https://www.instagram.com/pavstar619/)</li>
+</ul>
 - 😄 Pronouns: ... He/ Him
 - ⚡ Fun fact: ... I can do handstands
 
