@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on ... <b>Machine Learning & Web Development</b>
 - 🌱 I’m currently learning ... <b>Machine Learning</b>
-- 👯 I’m looking to collaborate on ... <b>Python projects</b>
+- 👯 I’m looking to collaborate on ... <b>Python projects  & Web projects</b>
 - 🤔 I’m looking for help with ... <b>Deep learning</b>
 - 💬 Ask me about ... <b>Full stack web development and Fitness</b>
 - 📫 How to reach me: ...<br><br>
